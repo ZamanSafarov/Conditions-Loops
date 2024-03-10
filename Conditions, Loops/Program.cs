@@ -4,35 +4,36 @@
 #region Task1  
 //Verilmis ededin reqemlerinin hasilini tapin.
 
-/*   With For    */
+/*   With While    */
 
-//int a = ReadInteger("Eded daxil edin: ");
+//int a = Math.Abs(ReadInteger("Eded daxil edin: "));
+//int number = 0;
+//int hasil = 1;
+
+//    while (a > 0)
+//    {
+//        number = a % 10;
+//        hasil *= number;
+//        a /= 10;
+//    }
+
+//Console.WriteLine(hasil);
+
+
+
+/*   With For (extra)    */
+
+//int a = Math.Abs(ReadInteger("Eded daxil edin: "));
 //string b = Convert.ToString(a);
 //int number = 0;
 //int hasil = 1;
 //for (int i = 0; i < b.Length; i++)
 //{
-//    number = a % 10; //4
-//    hasil *= number;
-//    a /= 10; //123
-//}
-
-//Console.WriteLine(hasil);
-
-/*   With While    */
-
-//int a = ReadInteger("Eded daxil edin: ");
-//int number = 0;
-//int hasil = 1;
-//while (a > 0)
-//{
 //    number = a % 10;
 //    hasil *= number;
 //    a /= 10;
 //}
-
 //Console.WriteLine(hasil);
-
 #endregion
 
 
@@ -45,26 +46,28 @@
 
 //int check = 0;
 
-//if (a <=1)
+//if (a <= 1)
 //{
 //    Console.WriteLine($"{a} nə sadə nədə mürəkkəb ədəddir!!");
 //    goto l3;
 //}
 //else
 //{
-//    for (int i = 2; i <= a ; i++)
+//    for (int i = 2; i < a; i++)
 //    {
 //        if (a % i == 0)
 //        {
-//            Console.Write($"{a} mürəkkəb ədəddir!!");
 //            check++;
 //            break;
 //        }
 //    }
 //}
 
-//if (check == 0)
+//if (check == 0 )
 //    Console.Write($"{a} sade ədəddir!!");
+//else
+//    Console.Write($"{a} mürəkkəb ədəddir!!");
+
 #endregion
 
 
@@ -79,7 +82,7 @@
 //{
 //    faktorial *= i;
 //}
-//if (a>=0)
+//if (a >= 0)
 //{
 //    Console.WriteLine($"{a} Ededinin faktorialı: {faktorial}");
 //}
@@ -119,11 +122,6 @@ else
 }
 
 #endregion
-
-
-
-
-
 
 
 

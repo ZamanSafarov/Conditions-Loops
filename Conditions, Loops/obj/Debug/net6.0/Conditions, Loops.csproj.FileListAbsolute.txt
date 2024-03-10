@@ -28,3 +28,18 @@ D:\Coding\Aztu-Codeacademy\Conditions, Loops\Conditions, Loops\bin\Debug\net6.0\
 D:\Coding\Aztu-Codeacademy\Conditions, Loops\Conditions, Loops\bin\Debug\net6.0\Conditions, Loops.pdb
 D:\Coding\Aztu-Codeacademy\Conditions, Loops\Conditions, Loops\obj\Debug\net6.0\Conditions, Loops.genruntimeconfig.cache
 D:\Coding\Aztu-Codeacademy\Conditions, Loops\Conditions, Loops\obj\Debug\net6.0\ref\Conditions, Loops.dll
+D:\Coding\Aztu-Codeacademy\Conditions-Loops\Conditions, Loops\bin\Debug\net6.0\Conditions, Loops.exe
+D:\Coding\Aztu-Codeacademy\Conditions-Loops\Conditions, Loops\bin\Debug\net6.0\Conditions, Loops.deps.json
+D:\Coding\Aztu-Codeacademy\Conditions-Loops\Conditions, Loops\bin\Debug\net6.0\Conditions, Loops.runtimeconfig.json
+D:\Coding\Aztu-Codeacademy\Conditions-Loops\Conditions, Loops\bin\Debug\net6.0\Conditions, Loops.dll
+D:\Coding\Aztu-Codeacademy\Conditions-Loops\Conditions, Loops\bin\Debug\net6.0\Conditions, Loops.pdb
+D:\Coding\Aztu-Codeacademy\Conditions-Loops\Conditions, Loops\obj\Debug\net6.0\Conditions, Loops.csproj.AssemblyReference.cache
+D:\Coding\Aztu-Codeacademy\Conditions-Loops\Conditions, Loops\obj\Debug\net6.0\Conditions, Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Aztu-Codeacademy\Conditions-Loops\Conditions, Loops\obj\Debug\net6.0\Conditions, Loops.AssemblyInfoInputs.cache
+D:\Coding\Aztu-Codeacademy\Conditions-Loops\Conditions, Loops\obj\Debug\net6.0\Conditions, Loops.AssemblyInfo.cs
+D:\Coding\Aztu-Codeacademy\Conditions-Loops\Conditions, Loops\obj\Debug\net6.0\Conditions, Loops.csproj.CoreCompileInputs.cache
+D:\Coding\Aztu-Codeacademy\Conditions-Loops\Conditions, Loops\obj\Debug\net6.0\Conditions, Loops.dll
+D:\Coding\Aztu-Codeacademy\Conditions-Loops\Conditions, Loops\obj\Debug\net6.0\refint\Conditions, Loops.dll
+D:\Coding\Aztu-Codeacademy\Conditions-Loops\Conditions, Loops\obj\Debug\net6.0\Conditions, Loops.pdb
+D:\Coding\Aztu-Codeacademy\Conditions-Loops\Conditions, Loops\obj\Debug\net6.0\Conditions, Loops.genruntimeconfig.cache
+D:\Coding\Aztu-Codeacademy\Conditions-Loops\Conditions, Loops\obj\Debug\net6.0\ref\Conditions, Loops.dll
